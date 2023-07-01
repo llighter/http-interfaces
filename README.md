@@ -16,7 +16,7 @@ https://github.com/llighter/http-interfaces.git http-interfaces
 cd http-interfaces
 ```
 
-### 3. IDE로 프로젝트 열기(ex. IntelliJ IDEA)
+### 3. IDE로 프로젝트 열가기(ex. IntelliJ IDEA)
 
 ### 4. 실행하기
 
